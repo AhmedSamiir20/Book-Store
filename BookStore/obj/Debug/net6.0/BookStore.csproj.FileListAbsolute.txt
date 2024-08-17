@@ -1,0 +1,977 @@
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\appsettings.json
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\BookStore.exe
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\BookStore.deps.json
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\BookStore.runtimeconfig.json
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\BookStore.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\BookStore.pdb
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\Humanizer.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\obj\Debug\net6.0\BookStore.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\BookStore\BookStore\obj\Debug\net6.0\BookStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\BookStore\BookStore\obj\Debug\net6.0\BookStore.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\BookStore\BookStore\obj\Debug\net6.0\BookStore.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\BookStore\BookStore\obj\Debug\net6.0\BookStore.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\BookStore\BookStore\obj\Debug\net6.0\BookStore.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\lenovo\Desktop\BookStore\BookStore\obj\Debug\net6.0\BookStore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lenovo\Desktop\BookStore\BookStore\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\lenovo\Desktop\BookStore\BookStore\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\lenovo\Desktop\BookStore\BookStore\obj\Debug\net6.0\scopedcss\bundle\BookStore.styles.css
+C:\Users\lenovo\Desktop\BookStore\BookStore\obj\Debug\net6.0\BookStore.csproj.CopyComplete
+C:\Users\lenovo\Desktop\BookStore\BookStore\obj\Debug\net6.0\BookStore.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\obj\Debug\net6.0\refint\BookStore.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\obj\Debug\net6.0\BookStore.pdb
+C:\Users\lenovo\Desktop\BookStore\BookStore\obj\Debug\net6.0\BookStore.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\BookStore\BookStore\obj\Debug\net6.0\ref\BookStore.dll
+C:\Users\lenovo\Desktop\project\BookStore\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\lenovo\Desktop\project\BookStore\bin\Debug\net6.0\appsettings.json
+C:\Users\lenovo\Desktop\project\BookStore\bin\Debug\net6.0\BookStore.exe
+C:\Users\lenovo\Desktop\project\BookStore\bin\Debug\net6.0\BookStore.deps.json
+C:\Users\lenovo\Desktop\project\BookStore\bin\Debug\net6.0\BookStore.runtimeconfig.json
+C:\Users\lenovo\Desktop\project\BookStore\bin\Debug\net6.0\BookStore.dll
+C:\Users\lenovo\Desktop\project\BookStore\bin\Debug\net6.0\BookStore.pdb
+C:\Users\lenovo\Desktop\project\BookStore\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\lenovo\Desktop\project\BookStore\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\lenovo\Desktop\project\BookStore\bin\Debug\net6.0\Humanizer.dll
+C:\Users\lenovo\Desktop\project\BookStore\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\lenovo\Desktop\project\BookStore\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lenovo\Desktop\project\BookStore\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\lenovo\Desktop\project\BookStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\lenovo\Desktop\project\BookStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\lenovo\Desktop\project\BookStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\lenovo\Desktop\project\BookStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\lenovo\Desktop\project\BookStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\lenovo\Desktop\project\BookStore\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\lenovo\Desktop\project\BookStore\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\lenovo\Desktop\project\BookStore\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\lenovo\Desktop\project\BookStore\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\lenovo\Desktop\project\BookStore\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\lenovo\Desktop\project\BookStore\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\lenovo\Desktop\project\BookStore\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\lenovo\Desktop\project\BookStore\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\lenovo\Desktop\project\BookStore\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\lenovo\Desktop\project\BookStore\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\lenovo\Desktop\project\BookStore\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\lenovo\Desktop\project\BookStore\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\lenovo\Desktop\project\BookStore\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\lenovo\Desktop\project\BookStore\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\lenovo\Desktop\project\BookStore\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\lenovo\Desktop\project\BookStore\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\lenovo\Desktop\project\BookStore\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\lenovo\Desktop\project\BookStore\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\lenovo\Desktop\project\BookStore\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\lenovo\Desktop\project\BookStore\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\lenovo\Desktop\project\BookStore\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\lenovo\Desktop\project\BookStore\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\lenovo\Desktop\project\BookStore\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\lenovo\Desktop\project\BookStore\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\lenovo\Desktop\project\BookStore\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\lenovo\Desktop\project\BookStore\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\lenovo\Desktop\project\BookStore\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\lenovo\Desktop\project\BookStore\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\lenovo\Desktop\project\BookStore\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\lenovo\Desktop\project\BookStore\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\lenovo\Desktop\project\BookStore\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\lenovo\Desktop\project\BookStore\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lenovo\Desktop\project\BookStore\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\lenovo\Desktop\project\BookStore\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\lenovo\Desktop\project\BookStore\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\lenovo\Desktop\project\BookStore\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\lenovo\Desktop\project\BookStore\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\lenovo\Desktop\project\BookStore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\lenovo\Desktop\project\BookStore\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lenovo\Desktop\project\BookStore\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lenovo\Desktop\project\BookStore\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lenovo\Desktop\project\BookStore\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lenovo\Desktop\project\BookStore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\lenovo\Desktop\project\BookStore\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\lenovo\Desktop\project\BookStore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\lenovo\Desktop\project\BookStore\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\lenovo\Desktop\project\BookStore\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lenovo\Desktop\project\BookStore\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\lenovo\Desktop\project\BookStore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\lenovo\Desktop\project\BookStore\obj\Debug\net6.0\BookStore.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\project\BookStore\obj\Debug\net6.0\BookStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\project\BookStore\obj\Debug\net6.0\BookStore.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\project\BookStore\obj\Debug\net6.0\BookStore.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\project\BookStore\obj\Debug\net6.0\BookStore.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\project\BookStore\obj\Debug\net6.0\BookStore.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\lenovo\Desktop\project\BookStore\obj\Debug\net6.0\BookStore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lenovo\Desktop\project\BookStore\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\lenovo\Desktop\project\BookStore\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\lenovo\Desktop\project\BookStore\obj\Debug\net6.0\scopedcss\bundle\BookStore.styles.css
+C:\Users\lenovo\Desktop\project\BookStore\obj\Debug\net6.0\BookStore.csproj.CopyComplete
+C:\Users\lenovo\Desktop\project\BookStore\obj\Debug\net6.0\BookStore.dll
+C:\Users\lenovo\Desktop\project\BookStore\obj\Debug\net6.0\refint\BookStore.dll
+C:\Users\lenovo\Desktop\project\BookStore\obj\Debug\net6.0\BookStore.pdb
+C:\Users\lenovo\Desktop\project\BookStore\obj\Debug\net6.0\BookStore.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\project\BookStore\obj\Debug\net6.0\ref\BookStore.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\MessagePack.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\Microsoft.Build.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\bin\Debug\net6.0\BCrypt.Net-Next.dll
+C:\Users\lenovo\Desktop\BookStore\BookStore\obj\Debug\net6.0\staticwebassets\msbuild.BookStore.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\lenovo\Desktop\BookStore\BookStore\obj\Debug\net6.0\staticwebassets\msbuild.build.BookStore.props
+C:\Users\lenovo\Desktop\BookStore\BookStore\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BookStore.props
+C:\Users\lenovo\Desktop\BookStore\BookStore\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BookStore.props
+C:\Users\lenovo\Desktop\BookStore\BookStore\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\appsettings.json
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\BookStore.exe
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\BookStore.deps.json
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\BookStore.runtimeconfig.json
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\BookStore.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\BookStore.pdb
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\BCrypt.Net-Next.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\Humanizer.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\MessagePack.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\Microsoft.Build.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\obj\Debug\net6.0\BookStore.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\obj\Debug\net6.0\BookStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\obj\Debug\net6.0\BookStore.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\obj\Debug\net6.0\BookStore.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\obj\Debug\net6.0\BookStore.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\obj\Debug\net6.0\BookStore.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\obj\Debug\net6.0\BookStore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\obj\Debug\net6.0\staticwebassets\msbuild.BookStore.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\obj\Debug\net6.0\staticwebassets\msbuild.build.BookStore.props
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BookStore.props
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BookStore.props
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\obj\Debug\net6.0\scopedcss\bundle\BookStore.styles.css
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\obj\Debug\net6.0\BookStore.csproj.CopyComplete
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\obj\Debug\net6.0\BookStore.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\obj\Debug\net6.0\refint\BookStore.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\obj\Debug\net6.0\BookStore.pdb
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\obj\Debug\net6.0\BookStore.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\Projects DOT NET\BookStore\BookStore\obj\Debug\net6.0\ref\BookStore.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\obj\Debug\net6.0\BookStore.csproj.AssemblyReference.cache
+D:\Desktop\Projects DOT NET\BookStore\BookStore\obj\Debug\net6.0\BookStore.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\Projects DOT NET\BookStore\BookStore\obj\Debug\net6.0\BookStore.AssemblyInfoInputs.cache
+D:\Desktop\Projects DOT NET\BookStore\BookStore\obj\Debug\net6.0\BookStore.AssemblyInfo.cs
+D:\Desktop\Projects DOT NET\BookStore\BookStore\obj\Debug\net6.0\BookStore.csproj.CoreCompileInputs.cache
+D:\Desktop\Projects DOT NET\BookStore\BookStore\obj\Debug\net6.0\BookStore.MvcApplicationPartsAssemblyInfo.cs
+D:\Desktop\Projects DOT NET\BookStore\BookStore\obj\Debug\net6.0\BookStore.MvcApplicationPartsAssemblyInfo.cache
+D:\Desktop\Projects DOT NET\BookStore\BookStore\obj\Debug\net6.0\BookStore.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\obj\Debug\net6.0\refint\BookStore.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\obj\Debug\net6.0\BookStore.pdb
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\appsettings.Development.json
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\appsettings.json
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\BookStore.exe
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\BookStore.deps.json
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\BookStore.runtimeconfig.json
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\BookStore.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\BookStore.pdb
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\AutoMapper.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\Azure.Core.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\Azure.Identity.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\BCrypt.Net-Next.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\Humanizer.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\MessagePack.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\Microsoft.Build.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\NuGet.Common.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\System.CodeDom.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\System.Text.Json.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\obj\Debug\net6.0\staticwebassets\msbuild.BookStore.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Desktop\Projects DOT NET\BookStore\BookStore\obj\Debug\net6.0\staticwebassets\msbuild.build.BookStore.props
+D:\Desktop\Projects DOT NET\BookStore\BookStore\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BookStore.props
+D:\Desktop\Projects DOT NET\BookStore\BookStore\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BookStore.props
+D:\Desktop\Projects DOT NET\BookStore\BookStore\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Desktop\Projects DOT NET\BookStore\BookStore\obj\Debug\net6.0\staticwebassets.build.json
+D:\Desktop\Projects DOT NET\BookStore\BookStore\obj\Debug\net6.0\staticwebassets.development.json
+D:\Desktop\Projects DOT NET\BookStore\BookStore\obj\Debug\net6.0\scopedcss\bundle\BookStore.styles.css
+D:\Desktop\Projects DOT NET\BookStore\BookStore\obj\Debug\net6.0\BookStore.genruntimeconfig.cache
+D:\Desktop\Projects DOT NET\BookStore\BookStore\obj\Debug\net6.0\ref\BookStore.dll
+D:\Desktop\Projects DOT NET\BookStore\BookStore\obj\Debug\net6.0\BookStore.csproj.Up2Date
